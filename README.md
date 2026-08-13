@@ -185,7 +185,7 @@ The interactive Power BI dashboard provides an overview of Nigeria's key economi
 
 ### Dashboard Overview
 
-![Nigeria Economic Indicators Dashboard](images/dashboard-overview.png)
+![Nigeria Economic Indicators Dashboard](https://github.com/Wani212/Nigeria-Economic-Indicators-Dashboard/blob/main/03%20Images/Screenshot%202026-08-10%20082401.png)
 
 The dashboard includes KPI cards, trend analysis, comparative visuals and an interactive year slicer to support exploration of Nigeria's economic performance.
 
