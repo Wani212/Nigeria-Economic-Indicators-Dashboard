@@ -1,0 +1,20 @@
+# Data Sources
+
+The Nigeria Economic Indicators Dashboard uses data from publicly available economic and financial sources.
+
+| Indicator | Source | Frequency | Period |
+|---|---|---|---|
+| GDP Growth | World Bank | Annual | 2015–2025 |
+| Population | World Bank | Annual | 2015–2025 |
+| Inflation | IMF | Annual | 2015–2025 |
+| Brent Crude Oil Price | FRED | Annual | 2015–2025 |
+| Monetary Policy Rate (MPR) | Central Bank of Nigeria | Annual | 2015–2025 |
+| Official Exchange Rate | Central Bank of Nigeria | Annual | 2015–2025 |
+
+## Notes
+
+The datasets were cleaned and transformed before being imported into Power BI.
+
+Where multiple observations were available within a year, the appropriate aggregation was applied during the data preparation process.
+
+The dashboard is intended for analytical and educational purposes.
