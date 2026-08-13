@@ -1,4 +1,4 @@
-# Data Sources
+Data Sources
 
 The Nigeria Economic Indicators Dashboard uses data from publicly available economic and financial sources.
 
@@ -11,7 +11,7 @@ The Nigeria Economic Indicators Dashboard uses data from publicly available econ
 | Monetary Policy Rate (MPR) | Central Bank of Nigeria | Annual | 2015–2025 |
 | Official Exchange Rate | Central Bank of Nigeria | Annual | 2015–2025 |
 
-## Notes
+Notes
 
 The datasets were cleaned and transformed before being imported into Power BI.
 
