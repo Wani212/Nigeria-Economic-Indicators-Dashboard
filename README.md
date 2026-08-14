@@ -1,3 +1,7 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Analysis-yellow)
+![DAX](https://img.shields.io/badge/DAX-Measures-blue)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-green)
+
 ## Project Overview
 
 This project analyses key Nigerian economic indicators from 2015 to 2025 using Microsoft Power BI.
